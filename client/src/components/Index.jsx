@@ -141,8 +141,8 @@ const LandingPage = () => {
               </div>
             </div>
             <div className="grid grid-cols-2 gap-4">
-              <img src={camel} alt="About 1" className="rounded-lg shadow-lg" />
-              <img src={dubaiBuild} alt="About 2" className="rounded-lg shadow-lg" />
+              <img src={camel} alt="About 1" className="rounded-lg shadow-lg h-96" />
+              <img src={dubaiBuild} alt="About 2" className="rounded-lg shadow-lg h-96" />
             </div>
           </div>
         </div>
